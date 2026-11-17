@@ -1,0 +1,6 @@
+build/
+build-native/
+*.o
+*.a
+.DS_Store
+compile_commands.json
